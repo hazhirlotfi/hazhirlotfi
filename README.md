@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Hahzir Lotfi
-- 👀 I’m interested in software development, cybersecurity, and exploring new technologies. I'm still an amateur, eager to learn and improve my skills.
-- 🌱 I'm currently learning Python, Linux, and Rust.
-- 💞️ Seeking collaborations: Software Development, Fun Games, Cybersecurity
-- 📫 How to reach me: hazhilotfi@gmail.com | Hazhir Lotfi (LinkedIn) | hazhirlotfi (GitHub)
+Hello, my name is Hazhir Lotfi. I have a keen interest in software development, cybersecurity, and staying updated with emerging technologies. Although I'm still in the process of learning and growing, I am highly motivated to improve my skills.
+Currently, I am focused on learning Python, Linux, and Rust to strengthen my programming abilities and deepen my understanding of various technological concepts.
+I am actively seeking opportunities to collaborate on fun, personal game development projects as well as software development initiatives. If you are interested in working together on any such projects, feel free to reach out to me.
+You can get in touch with me through the following channels:
 
-
-<!---
-hazhirlotfi/hazhirlotfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    Email: hazhilotfi@gmail.com
+    LinkedIn: Hazhir Lotfi
+    GitHub: hazhirlotfi
