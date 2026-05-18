@@ -12,29 +12,11 @@ Currently exploring ML fundamentals, image processing, and practical CV projects
 ---
 
 # 💻 Tech Stack
-
-### **Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)
-
----
-
-### **Machine Learning**
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white)
-
----
-
-### **Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
-
----
-
-### **Data Visualization**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-
----
-
-### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)
