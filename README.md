@@ -5,13 +5,13 @@ Currently exploring ML fundamentals, image processing, and practical CV projects
 
 ---
 
-## 🌐 Socials
+## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/Ihazhi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hazhirlotfi)
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -23,15 +23,8 @@ Currently exploring ML fundamentals, image processing, and practical CV projects
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Hazhirlotfi&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hazhirlotfi&theme=blue_navy&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazhirlotfi&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hazhirlotfi&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+# GitHub Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hazhirlotfi&theme=github-dark&hide_border=true)
 
 ---
 
