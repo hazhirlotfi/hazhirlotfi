@@ -47,14 +47,11 @@ Currently exploring ML fundamentals, image processing, and practical CV projects
 # GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hazhirlotfi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazhirlotfi&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hazhirlotfi&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hazhirlotfi&theme=github-dark&hide_border=true&area=true" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 </p>
