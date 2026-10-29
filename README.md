@@ -47,11 +47,5 @@ Currently exploring ML fundamentals, image processing, and practical CV projects
 # GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
-</p>
+  <img src="./github-stats.svg" width="100%" />
+</p>>
