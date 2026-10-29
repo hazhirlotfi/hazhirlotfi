@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/Ihazhi"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/Hazhirlotfi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/Ihazhi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Hazhirlotfi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -40,7 +40,6 @@ Currently exploring ML fundamentals, image processing, and practical CV projects
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 </p>
-
 
 ---
 
