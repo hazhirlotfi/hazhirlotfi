@@ -48,4 +48,4 @@ Currently exploring ML fundamentals, image processing, and practical CV projects
 
 <p align="center">
   <img src="./github-stats.svg" width="100%" />
-</p>>
+</p>
