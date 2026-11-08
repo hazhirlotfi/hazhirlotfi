@@ -52,6 +52,6 @@ Currently exploring ML fundamentals, image processing, and practical CV projects
 # My Tulkun
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/jadijadi/jadijadi/output/tulkun/tulkun.gif" width="640" alt="jadijadi's git-tulkun" />
+    <img src="https://raw.githubusercontent.com/hazhirlotfi/hazhirlotfi/output/tulkun/tulkun.gif" width="640" alt="hazhirlotfi's git-tulkun" />
   </a>
 </p>
